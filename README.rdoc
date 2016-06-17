@@ -1,7 +1,7 @@
-== README
+== VotesIn
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A fun rails app where users who dont trust the Academy's nominations and votes can vote for their favorite movie and acotr, actresses 
+and many other categories by giving thumbs up. 
 
 Things you may want to cover:
 
